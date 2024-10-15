@@ -1,0 +1,10 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/CMakeWorkspaceSettings.json
+/.vs/slnx.sqlite
+/.vs/tasks.vs.json
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
+/.vs/Repositories
